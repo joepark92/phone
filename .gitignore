@@ -1,0 +1,8 @@
+bin/phone/com/Galaxy.class
+bin/phone/com/IPhone.class
+bin/phone/com/Phone.class
+bin/phone/com/PhoneTest.class
+bin/phone/com/Ringable.class
+.settings/org.eclipse.jdt.core.prefs
+.classpath
+.project
